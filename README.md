@@ -1,4 +1,4 @@
-# torfs-bot
+# TorfsBot
 Twitterbot automatically imitating Rik Torfs's tweets using interpolated Markov models and dynamic templates, live on Twitter on [@TorfsBot](https://twitter.com/TorfsBot).
 
 ## Set-up
