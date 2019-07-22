@@ -1,0 +1,16 @@
+include ':twitter-util'
+project(':twitter-util').projectDir = new File(settingsDir, '../twitter-util')
+include ':generator-util'
+project(':generator-util').projectDir = new File(settingsDir, '../generator-util')
+include ':language-util'
+project(':language-util').projectDir = new File(settingsDir, '../language-util')
+include ':text-util'
+project(':text-util').projectDir = new File(settingsDir, '../text-util')
+include ':chatbot-util'
+project(':chatbot-util').projectDir = new File(settingsDir, '../chatbot-util')
+include ':markov'
+project(':markov').projectDir = new File(settingsDir, '../markov')
+include ':news-scraper'
+project(':news-scraper').projectDir = new File(settingsDir, '../news-scraper')
+rootProject.name = 'torfs-bot'
+
