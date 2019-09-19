@@ -8,7 +8,7 @@ Due to copyright reasons, the tweets & columns used for training the bot can not
 However, you can acquire such data yourself or use completely different source material and put them in `\src\main\resources\torfstweets.txt` and `\src\main\resources\torfscolumns.txt`.
 Both are required to just be new-line separated plain texts, without any mark-up or annotations.
 To download tweets, you can use [this script](https://github.com/twinters/twitter-util/blob/master/src/main/java/be/thomaswinters/twitter/util/download/TweetDownloader.java).
-For the columns, just pasting the text into a the `torfscolumns.txt` will do the trick.
+For the columns, just pasting the text into the `torfscolumns.txt` will do the trick.
 
 ### Dependencies
 
@@ -26,7 +26,7 @@ The following repositories need to be cloned in folders next to this repository,
 While you can run the bots without Twitter, running the main class will require a Twitter connection set-up through the environment to run from.
 For more information on how to run these type of bots, see [twitter-util](https://github.com/twinters/twitter-util).
 
-You will need to provide the following values in your environment (which can easily be set when running the code from an editor like [IntellJ](https://www.jetbrains.com/idea/)):
+You will need to provide the following values in your environment *(which can easily be set when running the code from an editor like [IntellJ](https://www.jetbrains.com/idea/))*:
 
 ```.env
 oauth.accessToken=
