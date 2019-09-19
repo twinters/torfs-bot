@@ -67,8 +67,4 @@ To cite TorfsBot in an academic paper, the following BibTex entry to the [paper]
 ```
 
 
-Or as:
-
-```
-Winters T. (2019) Imitating Philosophical Statements using Stacked Markov Chains and Dynamic Templates, In: 31st European Summer School in Logic, Language and Information (ESSLLI2019): Student Session, University of Latvia
-```
+Or as: *Winters T. (2019) Imitating Philosophical Statements using Stacked Markov Chains and Dynamic Templates, In: 31st European Summer School in Logic, Language and Information (ESSLLI2019): Student Session, University of Latvia*
